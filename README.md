@@ -8,6 +8,10 @@ Kaizen was presented as the solution to the following problem statement provided
 
 **_"How can we organise and manage a team of developers who are working remotely on a project?"_**
 
+## Presentation
+
+https://vimeo.com/showcase/8866625/video/618905577
+
 ## The idea behind and motivation for Kaizen
 
 Project management tools are an extremely saturated market, and as a team we did not want to simply build anyother project management clone mimicking the same behaviours seen across websites such as Trello and Github projects.
